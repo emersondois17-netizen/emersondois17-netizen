@@ -21,6 +21,3 @@ Sou apaixonado por transformar café, em código e resolver problemas através d
 > "Tudo o que temos de decidir é o que fazer com o tempo que nos é dado." — *Gandalf, O Senhor dos Anéis*
 
 ---
-
-📊 **Meus Status:**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersondois17-netizen&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
